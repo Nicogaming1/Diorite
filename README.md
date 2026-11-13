@@ -20,7 +20,7 @@ At 135M parameters, it's small enough to train and run on a laptop, which is the
 ### 1. Install
 
 ```bash
-git clone https://github.com/<your-username>/diorite.git
+git clone https://github.com/Nicogaming1/Diorite
 cd diorite
 pip install -r requirements.txt
 ```
